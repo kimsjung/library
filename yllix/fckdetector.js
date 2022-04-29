@@ -12,6 +12,6 @@ location.reload();
 const b=document.createElement("script");
 b.type="text/javascript";
 b.async=!0;
-b.src="https://vdbaa.com/pup.php?section=General&pt=2&pub=312621&ga=g&fN=1&fT=1&fTT=0";
+b.src="https://udbaa.com/bnr.php";
 b.onerror=function(){f();window.adblock=!0};
 const e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}();
