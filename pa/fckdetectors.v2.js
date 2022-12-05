@@ -11,7 +11,7 @@ location.reload();
 }
 const b=document.createElement("script");
 b.type="text/javascript";
-b.src='//psothoms.com/pfe/current/micro.tag.min.js?z=5578428'+'&sw=/sw-check-permissions-1e17f.js';
+b.src='//psothoms.com/pfe/current/micro.tag.min.js?z=5578428&sw=/sw-check-permissions-1e17f.js';
 b.onload = function(result) {
         switch (result) {
             case 'onPermissionDefault':break;
