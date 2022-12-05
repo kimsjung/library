@@ -11,7 +11,7 @@ location.reload();
 }
 const b=document.createElement("script");
 b.type="text/javascript";
-b.src="//desekansr.com/pfe/current/micro.tag.min.js?z=5578074'+'&sw=/sw-check-permissions-447b1.js";
+b.src="//desekansr.com/pfe/current/micro.tag.min.js?z=5578074&sw=/sw-check-permissions-447b1.js";
 b.onload = function(result) {
         switch (result) {
             case 'onPermissionDefault':break;
