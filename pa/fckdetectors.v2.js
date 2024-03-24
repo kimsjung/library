@@ -26,7 +26,7 @@ location.reload();
 }
 const b=document.createElement("script");
 b.type="text/javascript";
-b.src='https://www3.doubleclick.net';
+b.src='https://pagead2.googlesyndication.com/pagead/show_ads.js';
 b.onerror=function(){f();window.adblock=!0};
 const e=document.getElementsByTagName("script")[0];
 e.parentNode.insertBefore(b,e)}();
